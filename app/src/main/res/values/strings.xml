@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string-array name="size_options">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+
+    <string-array name="color_options">
+        <item>Red</item>
+        <item>Black</item>
+        <item>White</item>
+        <item>Blue</item>
+    </string-array>
+
+</resources>
